@@ -1,0 +1,54 @@
+pal - 0
+(b-a) 4
+b- 4
+a-0
+abc
+
+pal - 1
+(b-a) 3
+b- 3
+a-0
+ab
+
+pal - 1
+(b-a) 2
+b- 2
+a-0
+a
+
+pal - 1
+(b-a) 1
+b- 1
+a-0
+
+
+pal - 1
+(b-a) 3
+b- 4
+a-1
+bcb
+
+pal - 0
+(b-a) 2
+b- 3
+a-1
+bc
+
+pal - 1
+(b-a) 1
+b- 2
+a-1
+b
+
+pal - 1
+(b-a) 2
+b- 4
+a-2
+cbq
+
+pal - 1
+(b-a) 1
+b- 3
+a-2
+cb
+
