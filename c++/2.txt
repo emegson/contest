@@ -1,6 +1,0 @@
-//std::sort (myvector.begin(), myvector.begin()+4)
-/*c=0;
-    while(c<i){
-        cout << c << " - " << m[c] << endl;
-        c++;
-    }*/
